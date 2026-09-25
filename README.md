@@ -23,33 +23,6 @@ The objective is to analyse vehicle ride behaviour under different road disturba
 - Vehicle body acceleration evaluation
 - MATLAB/Simulink based simulation
 
-
----
-
-# Repository Structure
-
-```
-vehicle-suspension-control-simulation
-
-├── models
-│   ├── Half_car_suspension.slx
-│   ├── Active_Suspension_PID_Velocity_Test.slx
-│   └── passive_Suspension.slx
-│
-├── scripts
-│   ├── half_model.m
-│   ├── Report_Script_Suspension.m
-│   └── road_surface_profile.m
-│
-├── figures
-│
-└── documentation
-    └── Suspension_Modelling_Report.pdf
-```
-
-
----
-
 # Suspension Models
 
 
